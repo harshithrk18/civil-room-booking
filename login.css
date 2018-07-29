@@ -1,0 +1,33 @@
+body{
+    background: url("background.jpg");
+    width: 1366px;
+    height: 600px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+#main{
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    padding-top: 25px;
+    padding-left: 140px;
+    font-size: 40px;
+}
+#exampleInputEmail1{
+    width: 400px;
+}
+#exampleInputPassword1{
+    width: 400px;
+}
+.jumbotron{
+    width: 550px;
+    margin-top: 100px;
+    background: #22334294;
+    border: 2px solid aqua;
+}
+#label{
+    color: aqua;
+    font-size: large;
+    font-weight: lighter;
+}

@@ -1,0 +1,22 @@
+#brand{
+    height: 30px;
+    width: 300px;
+    font-size: large;
+}
+#profile_icon{
+    padding-right: 10px;
+}
+#user{
+    color: aquamarine;
+    padding-right: 30px;
+    padding-top: 10px;
+    font-size: larger;
+}
+table th {
+    background-color: #5BC0BE;
+    text-align: center;
+}
+
+table td{
+    text-align: center;
+}

@@ -1,0 +1,49 @@
+body{
+    background-image: url("room_booking bg.jpg");
+    background-repeat: no-repeat;
+}
+#brand{
+    height: 30px;
+    width: 300px;
+    font-size: large;
+}
+#profile_icon{
+    padding-right: 10px;
+}
+#user{
+    color: aquamarine;
+    padding-right: 30px;
+    padding-top: 10px;
+    font-size: larger;
+}
+#booking_purpose_label,#description, #room, #date, #start,#end{
+    font-size: larger;
+    font-weight: bold;
+    width: 175px;
+    padding-left: 15px;
+}
+
+
+
+
+
+#check{
+    position: absolute;
+    left: 440px;
+    top: 20px;
+    width: 20px;
+    height: 20px;
+}
+#all_day{
+    position: absolute;
+    left: 470px;
+    top: 20px;
+    font-size: medium;
+    color: black;
+}
+.jumbotron{
+    background-color: rgba(253,235,208,0.65);
+    border:2px solid darkorange;
+    padding-left: 150px;
+
+}
